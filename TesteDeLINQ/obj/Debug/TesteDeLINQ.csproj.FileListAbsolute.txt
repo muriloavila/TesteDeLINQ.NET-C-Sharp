@@ -1,0 +1,15 @@
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\TesteDeLINQ.exe.config
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\dbloja.mdf
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\dbloja_log.ldf
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\TesteDeLINQ.exe
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\TesteDeLINQ.pdb
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.csprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.Form1.resources
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.Properties.Resources.resources
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.csproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.exe
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.pdb
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\TesteDeLINQ.exe.manifest
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\bin\Debug\TesteDeLINQ.application
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.exe.manifest
+c:\users\murilo\documents\visual studio 2013\Projects\TesteDeLINQ\TesteDeLINQ\obj\Debug\TesteDeLINQ.application
